@@ -1,0 +1,91 @@
+body {
+    Color: #1B4F72;
+    background-color: beige;
+}
+
+#imageninicio {
+    width: 50%;
+    float: right;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #5585b5;
+}
+
+#textoinicio {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #79c2d0;
+}
+
+#textocontacto {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #79c2d0;
+}
+
+#imagencontacto {
+    width: 50%;
+    float: right;
+}
+
+#zona-encabezado {
+    width: 85%;
+    background:#5585b5 ;
+}
+
+#zona-imagenes {
+    width: 85%;
+    background: #53a8b6;
+    text-align: center;
+}
+
+#zona-cuerpo {
+    width: 85%;
+    background: #79c2d0;
+}
+
+#zona-final {
+    width: 85%;
+    background: #bbe4e9;
+}
+
+h1 {
+    font-family:cursive;
+    font-size: 32pt;
+    color:#e7eaf6;
+    text-align: center;
+}
+
+.texto-encabezado {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12pt;
+    color: #ffe9e3;
+    text-align: center;
+}
+
+img {
+    width: 30%;
+}
+
+.texto-cuerpo {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12pt;
+    color: #070f4e;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#070f4e;
+}
+
+ul {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 11pt;
+    color: #070f4e;
+}
+.texto-final {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10pt;
+    font-weight: bold;
+    color: #de703c;
+}
